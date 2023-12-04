@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {}
+    "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {
+    "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+        "projectUniqueName": "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
         "projectName": "ECommerce.Api.Search",
-        "projectPath": "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
-        "packagesPath": "C:\\Users\\1968084\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Search\\obj\\",
+        "projectPath": "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+        "packagesPath": "C:\\Users\\philo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1968084\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\philo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,6 +59,10 @@
             "Microsoft.Extensions.Http.Polly": {
               "target": "Package",
               "version": "[3.1.32, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
             }
           },
           "imports": [
@@ -80,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

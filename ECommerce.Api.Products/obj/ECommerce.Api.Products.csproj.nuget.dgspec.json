@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {}
+    "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+    "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectUniqueName": "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "projectName": "ECommerce.Api.Products",
-        "projectPath": "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
-        "packagesPath": "C:\\Users\\1968084\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1968084\\Desktop\\ECommerce\\ECommerce.Api.Products\\obj\\",
+        "projectPath": "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "packagesPath": "C:\\Users\\philo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\philo\\Documents\\GitHub\\ecommerce\\ECommerce.Api.Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1968084\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\philo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -55,6 +55,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.32, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
             }
           },
           "imports": [
@@ -76,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
